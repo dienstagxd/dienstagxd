@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, im Freitag 👋
+
+I am a bored tech nerd who spends their free time working on old computers and coding.
+
+## Heres some stuff about me that might be interesting:
+- I am currently trying to get a collection of old Apple Devices such as MacBooks and iPods because i think they are cool!
+- I have been interested in tech stuff since i was 8 years old.
+- My favourite season of the year is Winter
+- Id rather drink tea than coffee.
+
+I use this GitHub account for literally everything so if you see a unchanged fork you know why :)
 
 <!--
 **freitagxd/freitagxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
