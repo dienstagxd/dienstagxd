@@ -1,4 +1,4 @@
-## Hi, im Freitag 👋
+## Hi, im Dienstag 👋
 
 I am a bored tech nerd who spends their free time working on old computers and coding.
 
